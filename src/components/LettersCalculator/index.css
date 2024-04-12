@@ -1,0 +1,45 @@
+.bg-cont {
+  background-image: linear-gradient(to right, #1d976c, #93f9b9);
+  height: 100vh;
+  padding: 20px;
+  font-family: 'Roboto';
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.img {
+  width: 100%;
+}
+.result {
+  color: #1d976c;
+  font-size: 25px;
+}
+.last {
+  background-color: #ffffff;
+  height: 50px;
+  width: 170px;
+  border-radius: 12px;
+  margin-top: 10px;
+  text-align: center;
+}
+.card-2 {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+h1 {
+  color: #ffffff;
+  font-family: 40px;
+}
+label {
+  color: #ffffff;
+}
+input {
+  height: 40px;
+  width: 200px;
+  outline: none;
+}
